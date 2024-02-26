@@ -1,0 +1,132 @@
+2020-07-17 10:20:29: CMAC_Client::banner_output()
+2020-07-17 10:20:35: Inline styles added
+2020-07-17 10:20:35: CMAC_Client::banner_output()
+2020-07-17 10:23:00: CMAC_Client::banner_output()
+2020-07-17 10:23:26: CMAC_Client::banner_output()
+2020-07-17 10:23:26: CMAC_Data::cmac_get_banner()
+2020-07-17 10:23:26: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:23:26: Banner received
+2020-07-17 10:23:28: Inline styles added
+2020-07-17 10:23:28: CMAC_Client::banner_output()
+2020-07-17 10:23:28: CMAC_Data::cmac_get_banner()
+2020-07-17 10:23:28: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:23:28: Banner received
+2020-07-17 10:23:28: Triggering impression event
+2020-07-17 10:23:31: Inline styles added
+2020-07-17 10:23:32: CMAC_Client::banner_output()
+2020-07-17 10:23:32: CMAC_Data::cmac_get_banner()
+2020-07-17 10:23:32: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:23:32: Banner received
+2020-07-17 10:23:32: Triggering impression event
+2020-07-17 10:23:33: Inline styles added
+2020-07-17 10:23:33: CMAC_Client::banner_output()
+2020-07-17 10:23:33: CMAC_Data::cmac_get_banner()
+2020-07-17 10:23:33: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:23:33: Banner received
+2020-07-17 10:23:34: Triggering impression event
+2020-07-17 10:23:59: CMAC_Client::banner_output()
+2020-07-17 10:23:59: CMAC_Data::cmac_get_banner()
+2020-07-17 10:23:59: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:23:59: Banner received
+2020-07-17 10:24:17: CMAC_Client::banner_output()
+2020-07-17 10:24:17: CMAC_Data::cmac_get_banner()
+2020-07-17 10:24:17: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:24:17: Banner received
+2020-07-17 10:24:19: Inline styles added
+2020-07-17 10:24:19: CMAC_Client::banner_output()
+2020-07-17 10:24:19: CMAC_Data::cmac_get_banner()
+2020-07-17 10:24:19: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:24:19: Banner received
+2020-07-17 10:24:20: Triggering impression event
+2020-07-17 10:24:21: Triggering click event
+2020-07-17 10:24:25: Inline styles added
+2020-07-17 10:24:25: CMAC_Client::banner_output()
+2020-07-17 10:24:25: CMAC_Data::cmac_get_banner()
+2020-07-17 10:24:25: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:24:25: Banner received
+2020-07-17 10:24:26: Triggering impression event
+2020-07-17 10:24:27: Inline styles added
+2020-07-17 10:24:27: CMAC_Client::banner_output()
+2020-07-17 10:24:27: CMAC_Data::cmac_get_banner()
+2020-07-17 10:24:27: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 10:24:27: Banner received
+2020-07-17 10:24:27: Triggering impression event
+2020-07-17 10:24:29: Triggering click event
+2020-07-17 13:11:50: Inline styles added
+2020-07-17 13:11:50: CMAC_Client::banner_output()
+2020-07-17 13:11:50: CMAC_Data::cmac_get_banner()
+2020-07-17 13:11:50: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 13:11:50: Banner received
+2020-07-17 13:11:50: Triggering impression event
+2020-07-17 13:11:52: Inline styles added
+2020-07-17 13:11:52: CMAC_Client::banner_output()
+2020-07-17 13:11:52: CMAC_Data::cmac_get_banner()
+2020-07-17 13:11:52: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 13:11:52: Banner received
+2020-07-17 13:11:53: Triggering impression event
+2020-07-17 13:12:13: Inline styles added
+2020-07-17 13:12:13: CMAC_Client::banner_output()
+2020-07-17 13:12:13: CMAC_Data::cmac_get_banner()
+2020-07-17 13:12:13: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 13:12:13: Banner received
+2020-07-17 13:12:13: Triggering impression event
+2020-07-17 13:13:59: Inline styles added
+2020-07-17 13:13:59: CMAC_Client::banner_output()
+2020-07-17 13:13:59: CMAC_Data::cmac_get_banner()
+2020-07-17 13:13:59: Returning response from CMAC_Data:cmac_get_banner()
+2020-07-17 13:13:59: Banner received
+2020-07-17 13:13:59: Triggering impression event
+2020-08-04 07:37:11: CMAC_Client::banner_output()
+2020-08-04 07:37:11: CMAC_Data::cmac_get_banner()
+2020-08-04 07:37:11: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:37:11: Banner received
+2020-08-04 07:37:25: CMAC_Client::banner_output()
+2020-08-04 07:37:25: CMAC_Data::cmac_get_banner()
+2020-08-04 07:37:25: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:37:25: Banner received
+2020-08-04 07:37:25: CMAC_Client::banner_output()
+2020-08-04 07:37:25: CMAC_Data::cmac_get_banner()
+2020-08-04 07:37:25: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:37:25: Banner received
+2020-08-04 07:37:58: CMAC_Client::banner_output()
+2020-08-04 07:37:58: CMAC_Data::cmac_get_banner()
+2020-08-04 07:37:58: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:37:58: Banner received
+2020-08-04 07:38:01: Inline styles added
+2020-08-04 07:38:01: CMAC_Client::banner_output()
+2020-08-04 07:38:01: CMAC_Data::cmac_get_banner()
+2020-08-04 07:38:01: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:38:01: Banner received
+2020-08-04 07:38:02: Triggering impression event
+2020-08-04 07:38:04: Inline styles added
+2020-08-04 07:38:04: CMAC_Client::banner_output()
+2020-08-04 07:38:04: CMAC_Data::cmac_get_banner()
+2020-08-04 07:38:04: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:38:04: Banner received
+2020-08-04 07:38:04: Triggering impression event
+2020-08-04 07:38:06: Inline styles added
+2020-08-04 07:38:06: CMAC_Client::banner_output()
+2020-08-04 07:38:06: CMAC_Data::cmac_get_banner()
+2020-08-04 07:38:07: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:38:07: Banner received
+2020-08-04 07:38:07: Triggering impression event
+2020-08-04 07:38:10: Inline styles added
+2020-08-04 07:38:10: CMAC_Client::banner_output()
+2020-08-04 07:38:10: CMAC_Data::cmac_get_banner()
+2020-08-04 07:38:10: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:38:10: Banner received
+2020-08-04 07:38:11: Triggering impression event
+2020-08-04 07:38:27: CMAC_Client::banner_output()
+2020-08-04 07:38:27: CMAC_Data::cmac_get_banner()
+2020-08-04 07:38:27: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:38:27: Banner received
+2020-08-04 07:39:07: CMAC_Client::banner_output()
+2020-08-04 07:39:07: CMAC_Data::cmac_get_banner()
+2020-08-04 07:39:07: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:39:07: Banner received
+2020-08-04 07:39:10: Inline styles added
+2020-08-04 07:39:10: CMAC_Client::banner_output()
+2020-08-04 07:39:10: CMAC_Data::cmac_get_banner()
+2020-08-04 07:39:10: Returning response from CMAC_Data:cmac_get_banner()
+2020-08-04 07:39:10: Banner received
+2020-08-04 07:39:11: Triggering impression event
