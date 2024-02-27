@@ -1,7 +1,8 @@
-=== CM Ad Changer - Ad Manager and Ad Server ===
+# CM Ad Changer - Ad Manager and Ad Server
+
 Name: CM Ad Changer - Ad Manager and Ad Server 
 Contributors: CreativeMindsSolutions
-Donate link: https://www.cminds.com/wordpress-plugins-library/adchanger/
+Pro version link: https://www.cminds.com/wordpress-plugins-library/adchanger/
 Tags: ads, ad manager, ad server, adserving, advertising
 Requires at least: 5.4.0
 Tested up to: 6.3
@@ -9,8 +10,7 @@ Stable tag: 1.9.7
 
 Effortlessly manage and track your WordPress advertising campaigns through a user-friendly and powerful dashboard.
 
-
-== Description ==
+## Description
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/ad-management-plugin/)  | [Demo](https://www.answersplugin.com/ad-changer-demo/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=AdChangerAddOn) 
 
@@ -56,7 +56,7 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 * **HTML / Text Ads** - Support HTML / Text Ads and campaigns.
 * **Video Ads** - Support Video based Ads and campaigns.
 
-== Basic Features == 
+### Basic Features
 
 * Includes impression &amp; clicks count per each banner 
 * Each campaign can serve banners randomly or selectively.
@@ -68,7 +68,7 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 * Can run several campaigns simultaneously 
 * Each campaign can manage unlimited number of images / banners.
 
-==  Pro Version Features == 
+###  Pro Version Features
 
 > [Pro Version Detailed Feature List](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Demo Site](https://www.answersplugin.com/ad-changer-demo/)
 
@@ -90,16 +90,16 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 > * Custom JS - JS function can be added per campaign and executed once banner is clicked 
 > * Extended Shortcodes - Integrate ads on every page or post using a shortcode
 
-== AddOns ==
+### AddOns
 
 > * [Add-on: Ad Changer Client](https://www.cminds.com/wordpress-plugins-library/ad-changer-multiple-client-licenses-addition-for-wordpress-by-creativeminds/)
 > * [Add-on: Ad Changer Customer Dashboard](https://www.cminds.com/wordpress-plugins-library/ad-changer-customers-dashboard-addon-wordpress-creativeminds/)
 
-== Follow Us == 
+### Follow Us
 
 [Blog](https://www.cminds.com/category/wordpress/) | [Twitter](http://twitter.com/cmplugins)  | [LinkedIn](https://www.linkedin.com/company/creativeminds) | [YouTube](https://www.youtube.com/user/cmindschannel) | [Pinterest](http://www.pinterest.com/cmplugins/) | [FaceBook](https://www.facebook.com/cmplugins/)
 
-== Suggested Plugins by CreativeMinds ==
+### Suggested Plugins by CreativeMinds
 
 List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 
@@ -108,7 +108,7 @@ List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 * [CM Answers Plugin](https://www.answersplugin.com/) - A fully-featured WordPress Questions & Answers Plugin that allows you to build multiple discussion forum systems Just like StackOverflow, Yahoo Answers and Quora, Now with MicroPayment and Anonymous posting support!.
 * [CM Booking Calendar](http://bookingcalendarplugin.com/) - Customers can easily schedule appointments and pay for them directly through your website.
 
-== Installation ==
+### Installation
 
 > [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
 
@@ -116,27 +116,14 @@ List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Manage your CM Ad Changer plugin from Left Side Admin Dashboard
 
-== Frequently Asked Questions ==
+### Frequently Asked Questions
 
 > [More FAQ's](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
 > [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
 
-= How can I add banners ? =
+### How can I add banners ?
 
 Simply add a campaign and define upload banners. You can then insert a shortcode into theme or any post or page and banner will be show as defined in the campaign parameters .
-
-== Screenshots ==
-
-1. Campaigns Management Screen
-2. Update Campaign Settings
-3. Update Banners in the Campaign
-4. Update Dates When Campaign is Active
-5. Update Days in the Week When Campaign is Active
-6. Ad Server Log
-7. Ad Server Statistics
-8. Plugin's Settings
-9. HTML Banners
-10. Ad-Sense Campaigns
 
 == Changelog ==
 = 1.9.7 =
