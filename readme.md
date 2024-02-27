@@ -1,18 +1,18 @@
 # CM Ad Changer - Ad Manager and Ad Server
 
-Name: CM Ad Changer - Ad Manager and Ad Server 
-Contributors: CreativeMindsSolutions
-Pro version link: https://www.cminds.com/wordpress-plugins-library/adchanger/
-Tags: ads, ad manager, ad server, adserving, advertising
-Requires at least: 5.4.0
-Tested up to: 6.3
-Stable tag: 1.9.7
+> Name: CM Ad Changer - Ad Manager and Ad Server 
+> Contributors: CreativeMindsSolutions
+> Pro version link: https://www.cminds.com/wordpress-plugins-library/adchanger/
+> Tags: ads, ad manager, ad server, adserving, advertising
+> Requires at least: 5.4.0
+> Tested up to: 6.3
+> Stable tag: 1.9.7
 
 Effortlessly manage and track your WordPress advertising campaigns through a user-friendly and powerful dashboard.
 
 ## Description
 
-[Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/ad-management-plugin/)  | [Demo](https://www.answersplugin.com/ad-changer-demo/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=AdChangerAddOn) 
+[Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/ad-management-plugin/) | [Demo](https://www.answersplugin.com/ad-changer-demo/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=AdChangerAddOn) 
 
 **Effortlessly manage and track your advertising campaigns and banners on WordPress using our ad management  plugin for WordPress.** 
 
@@ -40,9 +40,9 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 
 ### Ad Server Plugin Introduction Video
 
-[vimeo https://vimeo.com/108688776]
+[https://vimeo.com/108688776]
 
-== Use-Cases == 
+### Use Cases
 
 * **Ad Management** - Manage banners within your site.
 * **Ad Rotation** - Show rotating images/banners anywhere in your site.
@@ -58,7 +58,7 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 
 ### Basic Features
 
-* Includes impression &amp; clicks count per each banner 
+* Includes impressions &amp; clicks count per each banner 
 * Each campaign can serve banners randomly or selectively.
 * Each banner can has it's own weight allowing it to have more impressions when selected randomly 
 * Each banner can have a unique target URL 
@@ -97,13 +97,13 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 
 ### Follow Us
 
-[Blog](https://www.cminds.com/category/wordpress/) | [Twitter](http://twitter.com/cmplugins)  | [LinkedIn](https://www.linkedin.com/company/creativeminds) | [YouTube](https://www.youtube.com/user/cmindschannel) | [Pinterest](http://www.pinterest.com/cmplugins/) | [FaceBook](https://www.facebook.com/cmplugins/)
+[Blog](https://www.cminds.com/category/wordpress/) | [Twitter](http://twitter.com/cmplugins)  | [LinkedIn](https://www.linkedin.com/company/creativeminds) | [YouTube](https://www.youtube.com/user/cmindschannel) | [Pinterest](http://www.pinterest.com/cmplugins/) | [Facebook](https://www.facebook.com/cmplugins/)
 
 ### Suggested Plugins by CreativeMinds
 
 List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 
-* [CM ToolTip Glossary](https://glossaryplugin.com/) - Easily creates a Glossary, Encyclopaedia or Dictionary of your website's terms and shows them as a tooltip in posts and pages when hovering. With many more powerful features.
+* [CM Tooltip Glossary](https://glossaryplugin.com/) - Easily creates a Glossary, Encyclopaedia or Dictionary of your website's terms and shows them as a tooltip in posts and pages when hovering. With many more powerful features.
 * [CM Download Manager](https://www.downloadmanagerplugin.com/) - Allows users to upload, manage, track and support documents or files in a download directory listing database for others to contribute, use and comment upon.
 * [CM Answers Plugin](https://www.answersplugin.com/) - A fully-featured WordPress Questions & Answers Plugin that allows you to build multiple discussion forum systems Just like StackOverflow, Yahoo Answers and Quora, Now with MicroPayment and Anonymous posting support!.
 * [CM Booking Calendar](http://bookingcalendarplugin.com/) - Customers can easily schedule appointments and pay for them directly through your website.
@@ -118,63 +118,9 @@ List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 
 ### Frequently Asked Questions
 
-> [More FAQ's](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
-> [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
+> * [More FAQ's](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
+> * [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
 
 ### How can I add banners ?
 
-Simply add a campaign and define upload banners. You can then insert a shortcode into theme or any post or page and banner will be show as defined in the campaign parameters .
-
-== Changelog ==
-= 1.9.7 =
-Release Date: 21 December 2023
-
-* Update package info
-
-= 1.9.6 =
-Release Date: 17th March 2023
-
-* Update package info
-
-= 1.9.5 =
-Release Date: 9th Nov 2022
-
-* Update support links
-
-
-= 1.9.4 =
-Release Date: 6th Sep 2022
-
-* Security fix
-
-
-= 1.9.3 =
-Release Date: 5th June 2022
-
-* Fixes to work on WP version 6
-
-
-= 1.9.2 =
-Release Date: 3rd Feb 2022
-
-* Fixed PHP notice/warning
-
-
-= 1.9.1 =
-Release Date: 6th June 2021
-
-* Fixed bugs
-
-= 1.9.0 =
-Release Date: 5th May 2021
-
-* Fixed small bug
-
-
-= 1.8.0 =
-Release Date: 21st April 2019
-
-* Fixed bugs
-
-= Earlier versions =
-For the changelog of earlier versions, please refer to [the changelog on cminds.com](https://www.cminds.com/wordpress-plugins-library/cm-ad-changer-free-version-changelog/)
+Simply add a campaign and define upload banners. You can then insert a shortcode into theme or any post or page and banner will be show as defined in the campaign parameters.
