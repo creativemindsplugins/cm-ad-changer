@@ -5,7 +5,7 @@
 * Minimum WordPress version: 5.4.0
 * Tested up to WordPress version: 6.3
 
-## Description
+## Introduction
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/ad-management-plugin/) | [Demo](https://www.answersplugin.com/ad-changer-demo/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=AdChangerAddOn) 
 
@@ -17,7 +17,7 @@ Whether you want to monetize your site, promote your products, or grow your audi
 
 ## Installation and Usage
 
-### Installation
+### Plugin Installation
 
 > [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [FAQ](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
 
@@ -34,19 +34,19 @@ To create a campaign, follow these steps:
 * Paste the shortcode into any theme, post, or page where you want your banner to appear.
 * The banner will be displayed according to the settings of your campaign.
 
-## Administrator Settings
+## Admin Options
 
 With the plugin, you can adjust various settings for your ad campaigns, such as the start and end dates, the weekdays, and the limit of impressions or clicks for each banner (in the pro version).
 
 The plugin also lets you control and limit the display of your banner ads on your posts and pages, based on the criteria you set for each campaign.
 
-## Ad Campaigns Settings
+## Ad Campaigns Options
 
 The plugin enables you to display ads that are mobile responsive, popup, html, video, or rotating banners.
 
 You can also assign different weights to each banner and select the best times to run your campaigns.
 
-## Ad Manager Premium Edition
+## Ad Manager Pro Plan
 
 The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-plugins-library/adchanger/) offers you more amazing features, such as: flexible campaign options, notifications, various campaign types, multisite support from one ad manager, and much more.
 
@@ -68,7 +68,7 @@ The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-
 
 </details>
 
-## Basic Features
+## Free Plan Features
 
 <details><summary> <b>Expand</b> </summary>
 
@@ -84,7 +84,7 @@ The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-
 
 </details>
 
-##  Pro Version Features
+##  Pro Plan Features
 
 <details><summary> <b>Expand</b> </summary>
 
@@ -110,7 +110,7 @@ The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-
 
 </details>
 
-## AddOns
+## Add-Ons List
 
 <details><summary> <b>Expand</b> </summary>
 
