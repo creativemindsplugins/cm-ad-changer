@@ -128,10 +128,10 @@ The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-
 
 List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 
-* [CM Tooltip Glossary]([https://glossaryplugin.com/](https://www.cminds.com/wordpress-plugins-library/tooltipglossary/)) - Easily creates a Glossary, Encyclopaedia or Dictionary of your website's terms and shows them as a tooltip in posts and pages when hovering. With many more powerful features.
-* [CM Download Manager]([https://www.downloadmanagerplugin.com/](https://www.cminds.com/wordpress-plugins-library/downloadsmanager/)) - Allows users to upload, manage, track and support documents or files in a download directory listing database for others to contribute, use and comment upon.
-* [CM Answers Plugin]([https://www.answersplugin.com/](https://www.cminds.com/cm-answer-store-page-content/)) - A fully-featured WordPress Questions & Answers Plugin that allows you to build multiple discussion forum systems Just like StackOverflow, Yahoo Answers and Quora, Now with MicroPayment and Anonymous posting support!.
-* [CM Booking Calendar]([http://bookingcalendarplugin.com/](https://www.cminds.com/wordpress-plugins-library/schedule-appointments-manage-bookings-plugin-wordpress/)) - Customers can easily schedule appointments and pay for them directly through your website.
+* [CM Tooltip Glossary](https://www.cminds.com/wordpress-plugins-library/tooltipglossary/) - Easily creates a Glossary, Encyclopaedia or Dictionary of your website's terms and shows them as a tooltip in posts and pages when hovering. With many more powerful features.
+* [CM Download Manager](https://www.cminds.com/wordpress-plugins-library/downloadsmanager/) - Allows users to upload, manage, track and support documents or files in a download directory listing database for others to contribute, use and comment upon.
+* [CM Answers Plugin](https://www.cminds.com/cm-answer-store-page-content/) - A fully-featured WordPress Questions & Answers Plugin that allows you to build multiple discussion forum systems Just like StackOverflow, Yahoo Answers and Quora, Now with MicroPayment and Anonymous posting support!.
+* [CM Booking Calendar](https://www.cminds.com/wordpress-plugins-library/schedule-appointments-manage-bookings-plugin-wordpress/) - Customers can easily schedule appointments and pay for them directly through your website.
 
 </details>
 
