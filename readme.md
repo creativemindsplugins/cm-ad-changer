@@ -42,13 +42,13 @@ The plugin offers a range of settings, including customizable ad campaign dates,
 
 The Ad manager plugin allows website administrators to manage and restrict the display of banner ads on posts and pages using specific campaign parameters. 
 
-# Ad Campaigns Settings
+## Ad Campaigns Settings
 
 The Ad Management plugin support mobile responsive ads, popup ads, html ads, video ads and banner ad rotation.
 
 Users can also choose the weight of each individual banner and choose optimal times to run ad campaigns. 
 
-### Ad Manager Premium Edition
+## Ad Manager Premium Edition
 
 The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins-library/adchanger/) includes even more powerful features, such as: more campign restriction options, notifications, more campain types, support for multiple sites from one ad manager and many more.
 
@@ -133,4 +133,3 @@ List of all [WordPress Plugins](https://www.cminds.com) by CreativeMinds
 ## Follow Us
 
 [Blog](https://www.cminds.com/category/wordpress/) | [Twitter](http://twitter.com/cmplugins)  | [LinkedIn](https://www.linkedin.com/company/creativeminds) | [YouTube](https://www.youtube.com/user/cmindschannel) | [Pinterest](http://www.pinterest.com/cmplugins/) | [Facebook](https://www.facebook.com/cmplugins/)
-
