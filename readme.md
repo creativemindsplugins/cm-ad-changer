@@ -1,12 +1,12 @@
 # CM Ad Changer - Ad Manager and Ad Server
 
-> Name: CM Ad Changer - Ad Manager and Ad Server 
-> Contributors: CreativeMindsSolutions
-> Pro version link: https://www.cminds.com/wordpress-plugins-library/adchanger/
-> Tags: ads, ad manager, ad server, adserving, advertising
-> Requires at least: 5.4.0
-> Tested up to: 6.3
-> Stable tag: 1.9.7
+* Name: CM Ad Changer - Ad Manager and Ad Server 
+* Contributors: CreativeMindsSolutions
+* Pro version link: https://www.cminds.com/wordpress-plugins-library/adchanger/
+* Tags: ads, ad manager, ad server, adserving, advertising
+* Requires at least: 5.4.0
+* Tested up to: 6.3
+* Stable tag: 1.9.7
 
 Effortlessly manage and track your WordPress advertising campaigns through a user-friendly and powerful dashboard.
 
@@ -37,10 +37,6 @@ Users can also choose the weight of each individual banner and choose optimal ti
 ### Ad Manager Premium Edition
 
 The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins-library/adchanger/) includes even more powerful features, such as: more campign restriction options, notifications, more campain types, support for multiple sites from one ad manager and many more.
-
-### Ad Server Plugin Introduction Video
-
-[https://vimeo.com/108688776]
 
 ### Use Cases
 
