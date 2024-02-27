@@ -88,30 +88,34 @@ The [Ad Manager Plugin Premium edition](https://www.cminds.com/wordpress-plugins
 
 > [Pro Version Detailed Feature List](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Demo Site](https://www.answersplugin.com/ad-changer-demo/)
 
-> * HTML Campaigns - Campaigns can display custom HTML content / Ads (set by WYSIWYG editor)
-> * Video Campaigns - Campaigns can display Video content takes from video networks or set by user
-> * Campaign Groups - Campaigns can now be grouped so you can display the Image/HTML/AdSense Campaigns with one shortcode! Campaign Groups Guide.
-> * AdSense - Support Google AdSense Campaigns.
-> * Cloud Storage -  Serve banners from any cloud storage like Amazon S3.
-> * Advertiser Categories - Organize campaigns and statistics by advertiser
-> * Responsive Banners - support adaptive banner size based on browser screen size. Support mobile devices while service the correct banner size 
-> * Notifications - Campaign manager will receive notifications to his email when campaign stops 
-> * Client Plugin - Includes a client plugin which can be installed on a remote WP installation and serve campaign banners from the CM Ad Changer Server. Each server can serve many clients simultaneously 
-> * Statistics - Include several statistics and access log modules. Log can be downloaded in csv format. Statistics reports can be shown by month. Statistics also include geo location information by country name. 
-> * Restrict by Dates - Campaign can be restricted based on dates 
-> * Restrict by Days - Campaign can be restricted based on days in the week 
-> * Restrict by Domains - Campaign can be restricted based on client domains (which Ad Changer clients will be served or not per a specific campaign) 
-> * Restrict by Clicks - Campaign can be restricted when it reaches a max amount of clicks
-> * Restrict by Impressions - Campaign can be restricted when it reaches a max amount of Impressions 
-> * Custom JS - JS function can be added per campaign and executed once banner is clicked 
-> * Extended Shortcodes - Integrate ads on every page or post using a shortcode
+* HTML Campaigns - Campaigns can display custom HTML content / Ads (set by WYSIWYG editor)
+* Video Campaigns - Campaigns can display Video content takes from video networks or set by user
+* Campaign Groups - Campaigns can now be grouped so you can display the Image/HTML/AdSense Campaigns with one shortcode! Campaign Groups Guide.
+* AdSense - Support Google AdSense Campaigns.
+* Cloud Storage -  Serve banners from any cloud storage like Amazon S3.
+* Advertiser Categories - Organize campaigns and statistics by advertiser
+* Responsive Banners - support adaptive banner size based on browser screen size. Support mobile devices while service the correct banner size 
+* Notifications - Campaign manager will receive notifications to his email when campaign stops 
+* Client Plugin - Includes a client plugin which can be installed on a remote WP installation and serve campaign banners from the CM Ad Changer Server. Each server can serve many clients simultaneously 
+* Statistics - Include several statistics and access log modules. Log can be downloaded in csv format. Statistics reports can be shown by month. Statistics also include geo location information by country name. 
+* Restrict by Dates - Campaign can be restricted based on dates 
+* Restrict by Days - Campaign can be restricted based on days in the week 
+* Restrict by Domains - Campaign can be restricted based on client domains (which Ad Changer clients will be served or not per a specific campaign) 
+* Restrict by Clicks - Campaign can be restricted when it reaches a max amount of clicks
+* Restrict by Impressions - Campaign can be restricted when it reaches a max amount of Impressions 
+* Custom JS - JS function can be added per campaign and executed once banner is clicked 
+* Extended Shortcodes - Integrate ads on every page or post using a shortcode
 
 </details>
 
 ## AddOns
 
-> * [Add-on: Ad Changer Client](https://www.cminds.com/wordpress-plugins-library/ad-changer-multiple-client-licenses-addition-for-wordpress-by-creativeminds/)
-> * [Add-on: Ad Changer Customer Dashboard](https://www.cminds.com/wordpress-plugins-library/ad-changer-customers-dashboard-addon-wordpress-creativeminds/)
+<details><summary> <b>Expand</b> </summary>
+
+* [Add-on: Ad Changer Client](https://www.cminds.com/wordpress-plugins-library/ad-changer-multiple-client-licenses-addition-for-wordpress-by-creativeminds/)
+* [Add-on: Ad Changer Customer Dashboard](https://www.cminds.com/wordpress-plugins-library/ad-changer-customers-dashboard-addon-wordpress-creativeminds/)
+
+</details>
 
 ## Suggested Plugins by CreativeMinds
 
