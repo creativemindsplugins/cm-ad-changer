@@ -26,7 +26,7 @@ The Ad Management plugin provides an easy-to-use interface for creating and mana
 
 ### Installation
 
-> [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
+> [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [FAQ](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
 
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
@@ -35,11 +35,6 @@ The Ad Management plugin provides an easy-to-use interface for creating and mana
 ### How can I add banners?
 
 Simply add a campaign and define upload banners. You can then insert a shortcode into theme or any post or page and banner will be show as defined in the campaign parameters.
-
-### Frequently Asked Questions
-
-> * [More FAQ's](https://www.cminds.com/wordpress-plugins-library/adchanger/#faq)
-> * [Detailed User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac)
 
 ## Administrator Settings
 
