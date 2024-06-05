@@ -3,7 +3,7 @@
 * Name: The Ultimate WordPress Ad Management Plugin
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.3
+* Tested up to WordPress version: 6.5.3
 
 ## Introduction
 
