@@ -4,10 +4,15 @@
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
 * Tested up to WordPress version: 6.6
+* Stable tag: 2.0.3
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Introduction
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/adchanger/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/ad-management-plugin/) | [Demo](https://www.answersplugin.com/ad-changer-demo/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/174-ad-changer-cmac) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=AdChangerAddOn) 
+
+⭐ The free version now includes Rotated Banners! Utilize this new feature to improve your ad management and boost engagement.
 
 **Turn your WordPress site into a powerful ad server that can handle any number of banners and campaigns using our Ad Management plugin for WordPress. You can also manage your ads across multiple WordPress sites from one dashboard, saving you time and hassle.**
 
@@ -75,8 +80,10 @@ The Premium edition of the [Ad Manager Plugin](https://www.cminds.com/wordpress-
 * Tracks impressions & clicks for each banner.
 * Each campaign can display banners randomly or by choice.
 * Each banner can have a different weight that affects its chances of being shown randomly.
+* Each campaign can support rotating banners.
 * Each banner can link to a specific URL.
 * Add ad campaigns to posts / pages using shortcode.
+* Add ad campaigns using a widget.
 * Shortcode has a debug mode option.
 * Shortcode also has an option to wrap banner with div.
 * Operate multiple campaigns at the same time.
