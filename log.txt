@@ -1,0 +1,55 @@
+2025-01-22 08:09:36: Inline styles added
+2025-01-22 08:09:36: CMAC_Client::banner_output()
+2025-01-22 08:09:36: CMAC_Data::cmac_get_banner()
+2025-01-22 08:09:37: Error response from CMAC_API: <
+2025-01-22 08:09:59: Inline styles added
+2025-01-22 08:09:59: CMAC_Client::banner_output()
+2025-01-22 08:09:59: CMAC_Data::cmac_get_banner()
+2025-01-22 08:09:59: Error response from CMAC_API: Campaign has no banners
+2025-01-22 08:10:24: Inline styles added
+2025-01-22 08:10:24: CMAC_Client::banner_output()
+2025-01-22 08:10:24: CMAC_Data::cmac_get_banner()
+2025-01-22 08:10:24: Error response from CMAC_API: <
+2025-01-22 08:11:52: Inline styles added
+2025-01-22 08:11:52: CMAC_Client::banner_output()
+2025-01-22 08:11:52: CMAC_Data::cmac_get_banner()
+2025-01-22 08:11:52: Error response from CMAC_API: <div id="cmac_ads_r_356167" data-fx="fade" data-speed="400" data-timeout="5000"><a href=""><img src="http://localhost/cmindsfree/wp-content/uploads/ac_uploads/6813441.png" title="" alt="" /></a><a href=""><img src="http://localhost/cmindsfree/wp-content/uploads/ac_uploads/7516255.jpg" title="" alt="" /></a></div><script>jQuery("#cmac_ads_r_356167").tcycle();</script>
+2025-01-22 08:12:45: Inline styles added
+2025-01-22 08:12:45: CMAC_Client::banner_output()
+2025-01-22 08:12:45: CMAC_Data::cmac_get_banner()
+2025-01-22 08:12:45: Error response from CMAC_API: <
+2025-01-22 08:14:03: Inline styles added
+2025-01-22 08:14:03: CMAC_Client::banner_output()
+2025-01-22 08:14:03: CMAC_Data::cmac_get_banner()
+2025-01-22 08:14:14: Inline styles added
+2025-01-22 08:14:14: CMAC_Client::banner_output()
+2025-01-22 08:14:14: CMAC_Data::cmac_get_banner()
+2025-01-22 08:14:14: Error response from CMAC_API: <
+2025-01-22 08:14:33: Inline styles added
+2025-01-22 08:14:33: CMAC_Client::banner_output()
+2025-01-22 08:14:33: CMAC_Data::cmac_get_banner()
+2025-01-22 08:14:53: Inline styles added
+2025-01-22 08:14:53: CMAC_Client::banner_output()
+2025-01-22 08:14:53: CMAC_Data::cmac_get_banner()
+2025-01-22 08:14:53: Returning response from CMAC_Data:cmac_get_banner()
+2025-01-22 08:14:53: Banner received
+2025-01-22 08:15:03: Inline styles added
+2025-01-22 08:15:03: CMAC_Client::banner_output()
+2025-01-22 08:15:03: CMAC_Data::cmac_get_banner()
+2025-01-22 08:15:03: Returning response from CMAC_Data:cmac_get_banner()
+2025-01-22 08:15:03: Banner received
+2025-01-22 08:15:14: Inline styles added
+2025-01-22 08:15:14: CMAC_Client::banner_output()
+2025-01-22 08:15:14: CMAC_Data::cmac_get_banner()
+2025-01-22 12:05:11: Inline styles added
+2025-01-22 12:05:12: CMAC_Client::banner_output()
+2025-01-22 12:05:12: CMAC_Data::cmac_get_banner()
+2025-01-22 12:17:52: Inline styles added
+2025-01-22 12:17:52: CMAC_Client::banner_output()
+2025-01-22 12:17:52: CMAC_Data::cmac_get_banner()
+2025-01-22 12:18:24: Inline styles added
+2025-01-22 12:18:24: CMAC_Client::banner_output()
+2025-01-22 12:18:24: CMAC_Data::cmac_get_banner()
+2025-01-22 12:20:34: Inline styles added
+2025-01-22 12:20:34: CMAC_Client::banner_output()
+2025-01-22 12:20:34: CMAC_Data::cmac_get_banner()
